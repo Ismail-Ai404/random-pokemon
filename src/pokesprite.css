@@ -1,0 +1,19 @@
+.container {
+  border: 2px solid #333; /* darker border */
+  border-radius: 12px; /* rounded corners */
+  padding: 16px; /* space inside */
+  margin-bottom: 12px; /* space between cards */
+  background-color: #f3bebe; /* light background */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* subtle shadow */
+  text-align: center; /* center content */
+  width: 250px;
+}
+.img {
+  width: 150px;
+  height: 150px;
+  /* image-rendering: pixelated; keeps retro style */
+}
+
+h2 {
+  color: rgb(53, 53, 112);
+}
